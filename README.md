@@ -8,3 +8,4 @@ Today class attendance:
 # Command to run your script on Mac OS
 python3 print.py
 Hi 
+Testing this to make sure it works.
