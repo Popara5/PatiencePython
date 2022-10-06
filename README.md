@@ -14,3 +14,4 @@ Hi
 Testing this to make sure it works.
 This is working! I can't wait to use my Git to do more work here. 
 >>>>>>> 5bd48cc8de83431dc08bdf5e2928e638496a53a6
+Great, it seems this is working!
