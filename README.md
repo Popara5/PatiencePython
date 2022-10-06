@@ -7,3 +7,4 @@ Today class attendance:
 
 # Command to run your script on Mac OS
 python3 print.py
+Mr Bali
